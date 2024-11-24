@@ -9,6 +9,7 @@
 
 ```
 pip install gmpy2
+pip install pycryptodome
 ```
 
 ## Execução
