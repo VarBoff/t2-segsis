@@ -8,7 +8,6 @@
 - Python 3.10
 
 ```
-pip install gmpy2
 pip install pycryptodome
 ```
 
