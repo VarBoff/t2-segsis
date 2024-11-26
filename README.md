@@ -14,6 +14,8 @@ pip install pycryptodome
 ## Execução
 No terminal, execute:
 
-```
-py main.py
+```py
+py ./etapa1.py
+# ou
+py ./etapa2.py
 ```
